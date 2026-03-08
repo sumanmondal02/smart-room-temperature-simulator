@@ -44,7 +44,7 @@ realistic HVAC system.
 ## Application Preview
 
 <p align="center">
-  <img src="assets/ui.png" width="45%">
+  <img src="assets/ui.png" width="75%">
 </p>
 
 ## How It Works
